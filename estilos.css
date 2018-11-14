@@ -1,0 +1,36 @@
+html {
+	background-color: #3399ff;
+	font-family: 'lobster', cursive;
+}
+body {
+	width: 500px;
+	background-color: #99ff33;
+	margin: auto;
+	padding: 20px 20px 20px 20px;
+	border: 5px solid black;
+}
+h1 {
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+
+}
+h2 {
+	font-size: 40px;
+	color:  blue;
+	text-align: center;
+}
+img {
+	display: block;
+	margin: auto;
+}
+p {
+	font-size: 20px;
+	color:  green;
+	text-align: center;
+}
+button {
+	display: block;
+	color: red;
+	margin: auto;
+}
